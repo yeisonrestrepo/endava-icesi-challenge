@@ -49,7 +49,8 @@ características predefinidas que permitirán presentar en la pantalla la tarjet
 
 ### HTML y Clases CSS
 
-Debes crear la estructura de una tarjeta pokemon e implentar de forma correcta dentro de dicha estructura, el siguiente listado de clases css:
+Para este reto debes usar la estructura html de una tarjeta pokemon, como se indica en la sección "Estructura de una tarjeta pokemon" y debes actualizar las clases
+CSS usando el siguiente listado de clases.
 
 - card-miPokemon
 - card-miPokemon-header
